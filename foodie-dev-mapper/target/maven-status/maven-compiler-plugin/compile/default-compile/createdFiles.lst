@@ -1,0 +1,16 @@
+org/feather/mapper/UsersMapper.class
+org/feather/mapper/OrdersMapper.class
+org/feather/my/mapper/MyMapper.class
+org/feather/mapper/ItemsSpecMapper.class
+org/feather/mapper/CategoryMapper.class
+org/feather/mapper/ItemsCommentsMapper.class
+org/feather/mapper/StuMapper.class
+org/feather/mapper/CategoryMapperCustom.class
+org/feather/mapper/ItemsImgMapper.class
+org/feather/mapper/UserAddressMapper.class
+org/feather/mapper/ItemsParamMapper.class
+org/feather/mapper/OrderStatusMapper.class
+org/feather/mapper/CarouselMapper.class
+org/feather/mapper/ItemsMapper.class
+org/feather/mapper/OrderItemsMapper.class
+org/feather/mapper/ItemsMapperCustom.class
